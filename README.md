@@ -1,2 +1,3 @@
-# Alexander-Luna
-Big Data
+# Machine learning exercises
+
+Learning from Machine learning exercises
